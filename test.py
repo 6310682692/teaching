@@ -1,2 +1,3 @@
 hi = "hello"
-print(hi)
+yo = "yoyo"
+print(hi + yo)
